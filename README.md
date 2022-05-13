@@ -15,4 +15,6 @@ Used following Parts:
 
 ![Wiredesign](/wireplan.png?raw=true "Wireplan")
 
-[ESPHome Config](https://github.com/gnoffer/Feuchtigkeitssensor/blob/main/esphome.config)
+[ESPHome Config](/esphome.config)
+
+See pictures for more details.

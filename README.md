@@ -12,7 +12,7 @@ Used following Parts:
 - [Mini Proto Steckbrett](https://www.amazon.de/gp/product/B07G5CP6G2/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&th=1)
 - [10CM 40pin Jumper Wire Kabel](https://www.amazon.de/gp/product/B09JYRKFNV/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 
-[Wiredesign]()
-![Wiredesign](/repository/assets/employee.png?raw=true "Employee Data title")
+
+![Wiredesign](/wireplan.png?raw=true "Wireplan")
 
 [ESPHome Config](https://github.com/gnoffer/Feuchtigkeitssensor/blob/main/esphome.config)
